@@ -10,4 +10,4 @@ spec:
     - targetPort: 80  # endpoint
       port: 80        # loadbalancer
   externalIPs:
-    - 172.20.227.242  # nodo con IP pública
+    - 172.20.227.151  # nodo con IP pública
